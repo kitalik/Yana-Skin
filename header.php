@@ -48,7 +48,6 @@ if ($terms && !is_wp_error($terms)) :
       continue;
     }
   }
-
 endif; 
 	
 ?>
